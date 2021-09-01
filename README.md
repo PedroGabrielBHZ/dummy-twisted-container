@@ -21,8 +21,8 @@ By default, the server will run at the 8000 port.
 
 ```
 git clone `this repo's link`
+cd `into it`
 export ECHO_SERVER_PORT=5000
-cd twisted-docker/server
 docker-compose up
 ```
 
