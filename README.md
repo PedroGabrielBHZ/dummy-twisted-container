@@ -1,5 +1,5 @@
 # twisted-docker
-A basic example to deploy a Twisted application as a Docker container
+A basic example to deploy a Twisted application as a Docker container.
 
 # Requirements
 - Python 3.x
@@ -8,7 +8,7 @@ A basic example to deploy a Twisted application as a Docker container
 
 # Dockerfile
 
-The Dockerfile install all necessary requirements to properly run twisted in a *nix environment.
+The Dockerfile installs all necessary requirements to properly run twisted in a *nix environment.
 
 ## Server Config
 
